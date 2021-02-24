@@ -37,7 +37,7 @@ main,
   position: absolute;
 }
 
-#pliscolmifran {
+#es-en {
   position: fixed;
   top: 2.5rem;
   right: 1%;
@@ -48,21 +48,6 @@ main,
   position: absolute;
   bottom: 0;
   z-index: 50;
-}
-
-.content {
-  padding-top: 4rem;
-}
-
-.content .col-lg-4 {
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
-/* rtl:begin:ignore */
-.content .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem;
 }
 
 /* rtl:end:ignore */
