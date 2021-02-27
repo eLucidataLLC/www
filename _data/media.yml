@@ -1,0 +1,22 @@
+Doffy:
+  type: img
+  src: img/Doffy.jpg
+
+Bran:
+  type: img
+  src: img/Bran.jpg
+
+PB:
+  type: img
+  src: img/PB.jpg
+
+SAERI:
+  type: img
+  src: img/saeri.png
+  attribution:
+    author:
+      name: SAERI
+      utl:  http://saeri.org
+    source:
+      name: SAERI Datacentre
+      url:  http://saeri.org

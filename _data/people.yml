@@ -1,0 +1,28 @@
+Doffy:
+  name:  Doffy the Boss
+  photo: data.media.Doffi.src
+  bio:
+    en:  Doffy is, we believe, a domestic shorthair feline best described as a Russian Blue version of Grumpy Cat. However, we have some reason to doubt this identification (not the grumpy part, that part we're pretty confident in) as "feline" and highly suspect that she may not be of this earth. Her primary mission on this planet is the protection and prompt daily emptying of her, and her feline-brother's, food bowls.
+    es:  Doffy es, creemos, un felino doméstico de pelo corto que se describe mejor como una versión azul rusa de Grumpy Cat. Sin embargo, tenemos algunas razones para dudar de esta identificación (no de la parte gruñona, en esa parte estamos bastante seguros) como "felina" y sospechamos que puede no ser de esta tierra. Su misión principal en este planeta es la protección y el vaciado diario de sus cuencos de comida y los de sus hermanos felinos.
+  media:
+    - who I am
+    - play with me
+    - feedme human
+
+Bran:
+  name:  Bran Black
+  photo: data.media.Bran.src
+  bio:
+    en:  Bran has a geologic, oceanic, and environmental sciences background, the common thread being the application of remotely sensed imagery at hard-to-map sites. Beyond academic research, her mapping and teaching experience centers on helping scientists and students, particularly those unfamiliar with the mapping process, to collect and analyze their data.
+    es:  Bran tiene una formación en ciencias geológicas, oceánicas y medioambientales, cuyo hilo conductor es la aplicación de imágenes de teledetección en lugares difíciles de cartografiar. Más allá de la investigación académica, su experiencia en cartografía y docencia se centra en ayudar a científicos y estudiantes, especialmente a los que no están familiarizados con el proceso cartográfico, a recopilar y analizar sus datos.
+  media:
+    - LinkedIn
+
+PB:
+  name:  PB Echevarría
+  photo: data.media.PB.src
+  bio:
+    en:  PB's experience ranges from automated engineering to coding, from mapping to analysis tool building, from data visualization to story telling. His deep roots in the open source mapping community support our fundamental drive to make mapping and spatial analysis as practical and practicable as possible for people who are newly emerging on the mapping scene.
+    es:  La experiencia de PB abarca desde la ingeniería automatizada hasta la codificación, desde la cartografía hasta la creación de herramientas de análisis, desde la visualización de datos hasta la narración de historias. Sus profundas raíces en la comunidad de la cartografía de código abierto respaldan nuestro impulso fundamental de hacer que la cartografía y el análisis espacial sean lo más prácticos posible para las personas que acaban de entrar en la escena cartográfica.
+  media:
+    - LinkedIn
