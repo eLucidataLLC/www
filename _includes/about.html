@@ -1,43 +1,16 @@
 <section id="about" class="clear">
   <div class="container py-5">
     <h2 class="display-4">About</h2>
-    <p class="lead">{{ site.data.texts.About.en }}</p>
+    <p class="lead">{% include translate.html t = site.data.texts.About %}</p>
 
     <div class="row pt-5">
-      <div class="col-lg-4">
-        <img src="{{ site.data.people.Doffy.photo }}" class="bd-placeholder-img rounded-circle" width="250" height="250" />
 
-        <h3>{{ site.data.people.Doffy.name }}</h3>
-        <p>{{ site.data.people.Doffy.bio.en }}</p>
-        <p class="text-start">
-          <a href="#"><i class="fas icon fa-cat fa-fw"></i></a>
-          <a href="#"><i class="fas icon fa-paw fa-fw"></i></a>
-          <a href="#" <i class="fas icon fa-fish fa-fw fa-spin"></i></a>
-        </p>
-      </div><!-- /.col-lg-4 -->
+      {% for p in site.data.people %}
+      {% include pcard.html p = p %}
+      {% endfor %}
 
-      <div class="col-lg-4">
-        <img src="{{ site.data.people.Bran.photo }}" class="bd-placeholder-img rounded-circle" width="250" height="250" />
-
-        <h3>{{ site.data.people.Bran.name }}</h3>
-        <p>{{ site.data.people.Bran.bio.en }}</p>
-        <p class="text-start">
-          <a href="#"><i class="fab icon fa-linkedin fa-fw"></i></a>
-        </p>
-      </div><!-- /.col-lg-4 -->
-
-
-      <div class="col-lg-4">
-        <img src="{{ site.data.people.PB.photo }}" class="bd-placeholder-img rounded-circle" width="250" height="250" />
-
-        <h3>{{ site.data.people.PB.name }}</h3>
-        <p>{{ site.data.people.PB.bio.en }}</p>
-        <p class="text-start">
-          <a href="#"><i class="fab icon fa-linkedin fa-fw"></i></a>
-        </p>
-      </div><!-- /.col-lg-4 -->
       <p class="text-end clear"><a href="#">Back to top</a></p>
 
-    </div><!-- /.row -->
+    </div>
   </div>
 </section>

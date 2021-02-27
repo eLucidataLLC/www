@@ -1,0 +1,11 @@
+<div class="col-lg-4 text-center">
+  <img src="{{ include.p.photo }}" class="bd-placeholder-img rounded-circle" width="250" height="250" />
+
+  <h3>{{ include.p.name }}</h3>
+  <p class="text-start text-muted">{% include translate.html t = include.p.bio %}</p>
+  <p class="text-start">
+    {% for m in include.p.media %}
+    <a href="{{m.url}}"><i class="icon fa-fw {{m.type}}"></i></a>
+    {% endfor %}
+  </p>
+</div>
