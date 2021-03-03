@@ -10,16 +10,21 @@
 
     {% for slide in site.data.carousel %}
     <div class="carousel-item fill {% if forloop.first %}active{% endif %}" style="background-image:url('img/{{slide.img}}')">
-      <div class="container">
-        <div class="message col-lg-6 col-md-6 mx-auto position-absolute top-50 start-left translate-middle-y px-3">
-          <h2 class="display-5">{% include translate.html t = slide.title %}</h2>
-          <p class="lead my-3"><a href="#" class="text-white fw-bold">{% include translate.html t = slide.cta %}</a></p>
-        </div>
+      <div class="container text-light">
+        <!-- <div class="row justify-content-center"> -->
+
+          <div class="message col-7 position-absolute top-50 start-50 translate-middle">
+            <h2 class="display-2">{% include translate.html t = slide.title %}</h2>
+            <p class="lead my-3 display-6"><a href="#" class="text-light text-decoration-none">{% include translate.html t = slide.cta %}</a></p>
+          </div>
+
+        <!-- </div> -->
+
       </div>
       {% include attribution.html i = slide.img %}
     </div>
     {% endfor %}
-    
+
   </div>
 
   <a class="carousel-control-prev" href="#carousel" role="button" data-bs-slide="prev">

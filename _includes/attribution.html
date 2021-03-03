@@ -1,2 +1,2 @@
 {% assign img = site.data.media | where: "src", include.i | first %}
-<small class="attribution text-light lh-lg p-2">Photo by <a href="{{ img.attr.by.url }}">{{ img.attr.by.name }}</a> on <a href="{{ img.attr.source.url }}">{{ img.attr.source.name }}</a></small>
+<small class="attribution lh-lg p-2">Photo by <a href="{{ img.attr.by.url }}" class="text-decoration-none">{{ img.attr.by.name }}</a> on <a href="{{ img.attr.source.url }}" class="text-decoration-none">{{ img.attr.source.name }}</a></small>

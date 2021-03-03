@@ -1,21 +1,22 @@
 -
   img:   alessandra-caretto-cAY9X4rPG3g-unsplash.jpg
   title:
-    en: Bogged down in muddy data? We'll help you get your wheels turning.
-    es: ¿Atascado en datos turbios? Nosotros le ayudamos a ponerse en marcha.
+    en: Bogged down in muddy data?
+    es: ¿Atascado en datos turbios?
   cta:
-    en:
-    es:
+    en: We'll help you get your wheels turning.
+    es: Nosotros te ayudamos a ponerte en marcha.
   url:
 
 -
-  # img:   james-schultz-ShpQy73RlBQ-unsplash.jpg
-  img:   chris-barbalis-yX9E8SjzU1A-unsplash.jpg
+  img:   james-schultz-ShpQy73RlBQ-unsplash.jpg
+  # img:   chris-barbalis-yX9E8SjzU1A-unsplash.jpg
+  # img:   muhammed-zafer-yahsi-WlzpO3gTssg-unsplash.jpg
   title:
-    en:
+    en: Lorem ipsum dolor sit
     es:
   cta:
-    en:
+    en: amet, consectetur adipisicing elit <i class="fas fa-robot"></i>
     es:
   url:
 
@@ -23,10 +24,10 @@
   # img:   tiffany-nutt-0ClfreiNppM-unsplash.jpg
   img:   sole-bicycles-F5LGKw7lU6I-unsplash.jpg
   title:
-    en: From the makers of mapbrick.com "Just another brick in the World"
+    en: From the makers of <strong>mapbrick.com</strong>
     es:
   cta:
-    en:
+    en: Just another brick in the World
     es:
   url:
 
@@ -34,9 +35,9 @@
   # img:   nikoline-arns-0rqIr0kJPgs-unsplash.jpg
   img:   nathan-dumlao-ZDznmU1zzgY-unsplash.jpg
   title:
-    en: Ride along with us. Together we'll see how far we take your data.
+    en: Ride along with us!
     es:
   cta:
-    en:
+    en: Together we'll see how far we take your data.
     es:
   url:
