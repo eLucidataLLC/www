@@ -2,8 +2,8 @@
   name:    Doffy Blachowski
   photo:   img/Doffy.jpg
   bio:
-    en:    Doffy is, we believe, a domestic shorthair feline best described as a Russian Blue version of Grumpy Cat. However, we have some reason to doubt this identification (not the grumpy part, that part we're pretty confident in) as "feline" and highly suspect that she may not be of this earth. Her primary mission on this planet is the protection and prompt daily emptying of her, and her feline-brother's, food bowls.
-    es:    Doffy es, creemos, un felino doméstico de pelo corto que se describe mejor como una versión azul rusa de Grumpy Cat. Sin embargo, tenemos algunas razones para dudar de esta identificación (no de la parte gruñona, en esa parte estamos bastante seguros) como "felina" y sospechamos que puede no ser de esta tierra. Su misión principal en este planeta es la protección y el vaciado diario de sus cuencos de comida y los de sus hermanos felinos.
+    en:    Doffy is, at first glance, a domestic shorthair feline best described as the Russian Blue version of Grumpy Cat. However, we have some reason to doubt her identification (not the grumpy part, that bit we're pretty confident in) as "feline". Instead, we highly suspect that she is not of this earth. Her primary mission on this planet appears to be the protection and prompt daily emptying of her, and her feline-brother's, food bowls.
+    es:    Doffy es, a primera vista, un felino doméstico de pelo corto que se describe mejor como la versión azul rusa de Grumpy Cat. Sin embargo, tenemos algunas razones para dudar de su identificación (no de la parte gruñona, de la que estamos bastante seguros) como "felino". En cambio, sospechamos que no es de esta tierra. Su misión principal en este planeta parece ser la protección y el vaciado diario de sus cuencos de comida y los de sus hermanos felinos.
   media:
     - type: fas fa-cat
       url: #
@@ -16,8 +16,8 @@
   name:      Bran Black
   photo:   img/Bran.jpg
   bio:
-    en:    Bran has a geologic, oceanic, and environmental sciences background, the common thread being the application of remotely sensed imagery at hard-to-map sites. Beyond academic research, her mapping and teaching experience centers on helping scientists and students, particularly those unfamiliar with the mapping process, to collect and analyze their data.
-    es:    Bran tiene una formación en ciencias geológicas, oceánicas y medioambientales, cuyo hilo conductor es la aplicación de imágenes de teledetección en lugares difíciles de cartografiar. Más allá de la investigación académica, su experiencia en cartografía y docencia se centra en ayudar a científicos y estudiantes, especialmente a los que no están familiarizados con el proceso cartográfico, a recopilar y analizar sus datos.
+    en:    Bran has a geologic, oceanic, and environmental sciences background; the common thread being the application of remotely sensed imagery at hard-to-map sites. Beyond academic research, her mapping and teaching experience centers on helping scientists and students, particularly those unfamiliar with the mapping process, to collect and analyze their data.
+    es:    Bran tiene una formación en ciencias geológicas, oceánicas y medioambientales; el hilo conductor es la aplicación de imágenes de teledetección en lugares difíciles de cartografiar. Más allá de la investigación académica, su experiencia en cartografía y docencia se centra en ayudar a científicos y estudiantes, especialmente a los que no están familiarizados con el proceso cartográfico, a recopilar y analizar sus datos.
   media:
     - type: fab fa-linkedin
       url: #
@@ -26,8 +26,8 @@
   name:   PB Echevarría
   photo:   img/PB.jpg
   bio:
-    en:    PB's experience ranges from automated engineering to coding, from mapping to analysis tool building, from data visualization to story telling. His deep roots in the open source mapping community support our fundamental drive to make mapping and spatial analysis as practical and practicable as possible for people who are newly emerging on the mapping scene.
-    es:    La experiencia de PB abarca desde la ingeniería automatizada hasta la codificación, desde la cartografía hasta la creación de herramientas de análisis, desde la visualización de datos hasta la narración de historias. Sus profundas raíces en la comunidad de la cartografía de código abierto respaldan nuestro impulso fundamental de hacer que la cartografía y el análisis espacial sean lo más prácticos posible para las personas que acaban de entrar en la escena cartográfica.
+    en:    PB's experience ranges from automated engineering to coding, from mapping to analysis tool building, from data visualization to story telling. His deep roots in both the open source mapping and numerous Latin American and Caribbean geospatial communities support our fundamental drive to make mapping and spatial analysis as practical and practicable as possible for people newly emerging on the mapping scene.
+    es:    La experiencia de PB abarca desde la ingeniería automatizada hasta la codificación, desde el mapeo hasta la construcción de herramientas de análisis, desde la visualización de datos hasta la narración de historias. Sus profundas raíces tanto en el mapeo de código abierto como en numerosas comunidades geoespaciales de América Latina y el Caribe apoyan nuestro impulso fundamental de hacer que el mapeo y el análisis espacial sean lo más práctico y practicable posible para las personas que acaban de aparecer en la escena del mapeo.
   media:
     - type: fab fa-linkedin
       url: #
